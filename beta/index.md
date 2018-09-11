@@ -6,7 +6,7 @@
 
 [School Website][2]
 
-<a href="rtp://239.219.90.22:50000" target="_C:\Program Files (x86)\VideoLAN\VLC\vlc.exe">MSE News</a>
+<a href="./news.m3u" target="_blank">MSE News (Click on downloaded file)</a>
 
 [1]: https://webchat.freenode.net/?channels=#MrsEdwardsChat "Made possible by Freenode IRC"
 [2]: https://www.lcps.org/Page/108044 "Now online!"
