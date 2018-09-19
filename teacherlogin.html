@@ -1,0 +1,78 @@
+<!doctype html>
+<!Html Coded By Ruguri>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Login to Teacher Hub</title>
+  <meta name="Spectre World is a China server unprotect. Try find anyway too bypass security!" content="Spectre">
+  <meta name="Ruguri" content="WebServerPenTest">
+<style>
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+
+}    
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+<script>
+
+
+function login(){
+    
+var username = document.getElementById("username").value;
+var password = document.getElementById("password").value;
+if ( username == "JEdwards" && password == "password"){
+
+alert ("Success!");
+window.location = "teacher.html"; 
+
+}
+else {
+if ( username == "JMoore" && password == "11Joey2007"){
+
+alert ("Success!");
+window.location = "teacher.html"; 
+
+} else {
+alert ("Incorrect password. Please try again.");
+}
+}
+
+</script>
+</head>
+
+<body>
+<center>
+<header>Teacher Hub - Login</header>
+<h2>Please type in a username and password.</h2>
+<img src="https://image.flaticon.com/icons/svg/26/26053.svg" alt="locked" style="width:400px;height:400px;">
+<span style="padding-left:20px"></span>
+<article>
+
+<label>User Name :</label>
+<input type="text" name="username" id="username"/>
+<br>
+<label>Password :</label>
+<input type="password" name="password" id="password"/>
+<input type="button" value="Login" onclick="login()"/>
+
+</article>
+<span style="padding-left:20px"></span>
+<footer>Spectre@ WS-System</footer>
+</div>
+</center>
+<span style="padding-left:20px"></span>
+<strong>Based off Spectre by Ruguri</strong>
+</body>
+</html>
