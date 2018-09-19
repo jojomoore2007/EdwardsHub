@@ -1,6 +1,10 @@
-# Welcome to Mrs. Edwards' Link Hub!
+<pre>
+⊂(◉‿◉)つ
+</pre>
+# Welcome to Mrs. Edwards' Link Hub! (v0.0.1)
+[Chat][1]
 
-This version is in development. You can apply to beta test [here,][1] otherwise use [this site.][2]
+[School Website][2]
 
-[1]: ./index.html "Work-In-Progress..."
-[2]: https://edwardshub.weebly.com "Hosted by Weebly - Mrs. Edwards' Link Hub"
+[1]: https://webchat.freenode.net/?channels=#MrsEdwardsChat "Made possible by Freenode IRC"
+[2]: https://www.lcps.org/Page/108044 "Now online!"
