@@ -1,7 +1,7 @@
 <pre>
 ⊂(◉‿◉)つ
 </pre>
-# Welcome to Mrs. Edwards' Link Hub! (Beta v0.0.1)
+# Welcome to Mrs. Edwards' Link Hub! (Teacher v0.0.1)
 [Chat][1]
 
 [School Website][2]
