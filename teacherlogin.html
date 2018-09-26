@@ -32,16 +32,9 @@ function login(){
     
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
-if ( username == "JEdwards" && password == "password"){
+if ( username == "JEdwards" && password == "password" || username == "JMoore" && password == "11Joey2007" ){
 
-alert ("Success! Welcome, Mrs. Edwards!");
-window.location = "teacher.html"; 
-
-}
-else {
-if ( username == "JMoore" && password == "11Joey2007") {
-
-alert ("Success! Welcome, Joey!");
+alert ("Success!");
 window.location = "teacher.html"; 
 
 }
