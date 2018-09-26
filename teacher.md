@@ -6,7 +6,7 @@
 
 [School Website][2]
 
-<a href="/EdwardsHub/assets/news.m3u" target="_blank">MSE News (File)</a>
+<a href="/EdwardsHub/assets/MSENews.xspf" target="_blank">MSE News (File)</a>
 
 [1]: https://webchat.freenode.net/?channels=#MrsEdwardsChat "Made possible by Freenode IRC"
 [2]: https://www.lcps.org/Page/108044 "Now online!"
