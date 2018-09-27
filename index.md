@@ -1,3 +1,6 @@
+<head>
+  {% include head.html %}
+</head>
 <pre>
 ⊂(◉‿◉)つ
 </pre>
